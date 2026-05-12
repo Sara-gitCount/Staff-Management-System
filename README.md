@@ -2,6 +2,9 @@
 
 A comprehensive task management system designed to streamline workflows, track employee assignments, and improve team productivity.
 
+## 🎬 Demo
+![System Demo](assets/animation.gif)
+
 ## ✨ Features
 * **Task Tracking:** Create, assign, and monitor status of various tasks.
 * **Employee Management:** Maintain a clear record of staff members and their responsibilities.
